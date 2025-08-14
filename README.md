@@ -168,6 +168,10 @@ npm start
 * Responsive grid layout for product listing
 * Professional search bar with icon and shadow effects
 
+## Screenshot
+
+![App Screenshot](screenshot.jpeg)
+
 ## Future Improvements
 
 * Add **user authentication** and **role-based access**
